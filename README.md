@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bazilsuhail" alt="bazilsuhail" /></a> </p>
 
-- 🔭 I’m currently working on **Charity Managenment System**
+- 🔭 I’m currently working on **Charity Managenment Network**
 
 - 💬 Ask me about **React,SQL,C++,Firebase**
 
