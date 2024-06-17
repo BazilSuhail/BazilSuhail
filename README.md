@@ -1,75 +1,19 @@
-<div class="banner">
-        <img src="URL_TO_YOUR_BANNER_IMAGE" alt="Profile Banner" width="100%">
-    </div>
+<h1 align="center">This is:= Bazil Suhail</h1>
+<h3 align="center">A passionate Full stack developer and front end Designer from Pakistan</h3>
 
-    <h1>Hi there, I'm [Your Name] 👋</h1>
-    <h3>💻 Web Developer | React | MERN | Firebase | Supabase</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bazilsuhail&label=Profile%20views&color=0e75b6&style=flat" alt="bazilsuhail" /> </p>
 
-    <div>
-        <h2 class="section-title">About Me</h2>
-        <p>I'm a passionate web developer with a strong proficiency in modern web technologies. I specialize in building dynamic and responsive web applications using React, the MERN stack, Firebase, and Supabase.</p>
-        <ul>
-            <li>🌟 <strong>Strengths</strong>: Innovative problem-solver, fast learner, and team player.</li>
-            <li>📚 <strong>Learning</strong>: Continuously exploring the latest in web development and cloud technologies.</li>
-            <li>🌐 <strong>Collaboration</strong>: Open to contributing to open-source projects and collaborating on exciting new ideas.</li>
-        </ul>
-    </div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bazilsuhail" alt="bazilsuhail" /></a> </p>
 
-    <div>
-        <h2 class="section-title">Technologies & Tools</h2>
-        <div class="badges">
-            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-            <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-            <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-            <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-            <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-        </div>
-    </div>
+- 🔭 I’m currently working on **Charity Managenment System**
 
-    <div>
-        <h2 class="section-title">My Projects</h2>
+- 💬 Ask me about **React,SQL,C++,Firebase**
 
-        <div class="project">
-            <h3>Project 1: <a href="URL_TO_PROJECT" target="_blank">[Project Name]</a></h3>
-            <p><strong>Description</strong>: Brief description of the project, highlighting its features and technologies used.</p>
-            <p><strong>Technologies</strong>: React, Node.js, Express, MongoDB, Firebase</p>
-        </div>
+- 📫 How to reach me **bazil1854@gmail.com**
 
-        <div class="project">
-            <h3>Project 2: <a href="URL_TO_PROJECT" target="_blank">[Project Name]</a></h3>
-            <p><strong>Description</strong>: Brief description of the project, highlighting its features and technologies used.</p>
-            <p><strong>Technologies</strong>: React, Supabase, JavaScript, HTML5, CSS3</p>
-        </div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-        <div class="project">
-            <h3>Project 3: <a href="URL_TO_PROJECT" target="_blank">[Project Name]</a></h3>
-            <p><strong>Description</strong>: Brief description of the project, highlighting its features and technologies used.</p>
-            <p><strong>Technologies</strong>: React, Firebase, Node.js, Express, MongoDB</p>
-        </div>
-    </div>
-
-    <div>
-        <h2 class="section-title">Get in Touch</h2>
-        <div class="contact">
-            <a href="URL_TO_YOUR_PORTFOLIO" target="_blank">🌐 Portfolio</a>
-            <a href="URL_TO_YOUR_LINKEDIN" target="_blank">💼 LinkedIn</a>
-            <a href="URL_TO_YOUR_TWITTER" target="_blank">🐦 Twitter</a>
-            <a href="mailto:your.email@example.com">📧 Email</a>
-        </div>
-    </div>
-
-    <div>
-        <h2 class="section-title">GitHub Stats</h2>
-        <div class="stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Your GitHub Stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages">
-        </div>
-    </div>
-
-    <div>
-        <p>Feel free to reach out for any collaboration or discussion. Let's build something amazing together! 🚀</p>
-    </div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
