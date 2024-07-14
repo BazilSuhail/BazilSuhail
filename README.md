@@ -6,9 +6,6 @@
 <h3 align="center" >A passionate <b>Full stack developer</b> and a <b>Front-end Engineer </b></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bazilsuhail&label=Profile%20views&color=0e75b6&style=flat" alt="bazilsuhail" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bazilsuhail" alt="bazilsuhail" /></a> </p>
-
 - 🔭 I’m currently working on **Charity Managenment Network**
 
 - 💬 Ask me about **React, Next js, SQL, C++, Firebase**
