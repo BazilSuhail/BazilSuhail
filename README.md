@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bazilsuhail&label=Profile%20views&color=0e75b6&style=flat" alt="bazilsuhail" />
+  <img src="https://github.com/BazilSuhail/BazilSuhail/blob/main/LinkDinBanner.png" alt="bazilsuhail" />
 </p>
 <h1 class="text-sm text-red-100" align="center">This is  :=  Bazil Suhail</h1>
 <h3 align="center">A passionate Full stack developer and front end Designer from Pakistan</h3>
