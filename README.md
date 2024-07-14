@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://github.com/BazilSuhail/BazilSuhail/blob/main/LinkDinBanner.png" alt="bazilsuhail" />
 </p>
-<h3 class="text-sm text-red-100" align="center">Hi I am :-</h3>
-<h1 class="text-sm text-red-100" align="center"><b>Bazil Suhail</b></B>/h1>
-<h3 align="center">A passionate Full stack developer and front end Designer from Pakistan</h3>
+<h3 >Hi I am :-</h3>
+<h1 align="center"><b>Bazil Suhail</b></B>/h1>
+<h3 align="center">A passionate <b>Full stack developer</b> and a <b>Front-end Engineer </b></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bazilsuhail&label=Profile%20views&color=0e75b6&style=flat" alt="bazilsuhail" /> </p>
 
