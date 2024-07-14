@@ -15,8 +15,11 @@ A passionate software engineer and full-stack developer specializing in crafting
 - Skilled in creating intuitive and visually appealing interfaces.
 - Development of Web and Desktop Applications.
 - Experienced in Realtime Database integration like **Firebase** and **Supabase**.
+ 
 
-<h2 align="left">✅ Stuck On a Problem <b>Let's Communicate to figure out a Technical Solution</b>/h2>
+##### 🚩 Stuck On a Problem 
+### ✅Let's Communicate to figure out a Technical Solution
+<br/>
 <p align="left">
   <a href="mailto:bazil1854@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/bazil-suhail/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
