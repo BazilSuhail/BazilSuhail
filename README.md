@@ -3,8 +3,7 @@
 </p>
 
 <h1 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/bazil-suhail/">Bazil Suhail</a> 
-<img src="https://giphy.com/embed/3pZipqyo1sqHDfJGtz" width="28"> 
- <a href="https://github.com/harismuneer/Ultimate-Facebook-Scraper"><img align="right" src="https://user-images.githubusercontent.com/30947706/79588950-17515780-80ee-11ea-8f66-e26da49fa052.png" alt="Ultimate Facebook Scraper (UFS)" width="200"/></a> - Maker of Things</h1> 
+<img src="https://giphy.com/embed/3pZipqyo1sqHDfJGtz" width="28">  
 
 
 <h3 align="center" >A passionate <b>Full stack developer</b> and a <b>Front-end Engineer </b></h3>
