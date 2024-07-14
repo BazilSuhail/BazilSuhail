@@ -1,8 +1,11 @@
 <p align="center">
   <img src="https://github.com/BazilSuhail/BazilSuhail/blob/main/LinkDinBanner.png" alt="bazilsuhail" />
 </p>
-<h3 >Hi I am :-</h3>
-<h1 style="margin: -20px 0; padding-left: 0px;"><b>Bazil Suhail</b></h1>
+
+<h1 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/bazil-suhail/">Bazil Suhail</a><iframe src="https://giphy.com/embed/3pZipqyo1sqHDfJGtz" width="25" height="25" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sesamestreet-3pZipqyo1sqHDfJGtz">via GIPHY</a></p>
+ <a href="https://github.com/harismuneer/Ultimate-Facebook-Scraper"><img align="right" src="https://user-images.githubusercontent.com/30947706/79588950-17515780-80ee-11ea-8f66-e26da49fa052.png" alt="Ultimate Facebook Scraper (UFS)" width="200"/></a> - Maker of Things</h1> 
+
+
 <h3 align="center" >A passionate <b>Full stack developer</b> and a <b>Front-end Engineer </b></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bazilsuhail&label=Profile%20views&color=0e75b6&style=flat" alt="bazilsuhail" /> </p>
