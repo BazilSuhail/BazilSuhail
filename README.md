@@ -7,11 +7,12 @@
 
 <h3 align="center" >A passionate <b>Full stack developer</b> and a <b>Front-end Engineer </b></h3>
 
+<a href="https://github.com/harismuneer"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=harismuneer&style=flat-square" width="125"/></a>
 ## 👨🏻‍🎓 About Me
 A passionate software engineer and full-stack developer specializing in crafting elegant digital experiences. With expertise in various programming languages and technologies, I excel in both development and design. Currently pursuing a bachelor's degree at ITU, I thrive on building innovative projects, from React components and Next.js to full-stack SAAS applications. Let's connect and create something amazing!
 
 
-## 💻⚙️ Technical Skills & Expertise
+## 😎 Expertise
 - Skilled in creating intuitive and visually appealing interfaces.
 - Development of Web and Desktop Applications.
 - Experienced in Realtime Database integration like **Firebase** and **Supabase**.
