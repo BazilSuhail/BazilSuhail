@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/bazil-suhail/">Bazil Suhail</a> 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> A skilled
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> A skilled <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=400&height=70&duration=4000&lines=Software+Engineer;+Full-Stack+Developer;+Web+Designer" />
+
  
 <h2 align="center" justify="center" >
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=400&height=70&duration=4000&lines=Software+Engineer;+Full-Stack+Developer;+Web+Designer" />
