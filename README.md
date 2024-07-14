@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/bazil-suhail/">Bazil Suhail</a> 
-<img src="https://giphy.com/embed/3pZipqyo1sqHDfJGtz" width="100">  
+<img src="https://giphy.com/embed/3pZipqyo1sqHDfJGtz/giphy.gif" width="100">  
 
 
 <h3 align="center" >A passionate <b>Full stack developer</b> and a <b>Front-end Engineer </b></h3>
