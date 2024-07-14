@@ -19,8 +19,7 @@ A passionate software engineer and full-stack developer specializing in crafting
  
 
 ##### 🚩 Stuck On a Problem 
-### ✅Let's Communicate to figure out a Technical Solution
-<br/>
+### ✅Let's Communicate to figure out a Technical Solution 
 <p align="left">
   <a href="mailto:bazil1854@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/bazil-suhail/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
