@@ -6,12 +6,12 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 
 
-<h1 align="center" justify="center >A skilled 
+<h1 align="center" justify="center" >A skilled 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Software+Engineer;+Full-Stack+Developer;+Web+Designer" />
 </h1>   
 <h3 align="center" >A passionate <b>Full stack developer</b> and a <b>Front-end Engineer </b></h3>
 
-<a href="https://github.com/harismuneer"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=harismuneer&style=flat-square" width="125"/></a>
+<a href="https://github.com/harismuneer"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=BazilSuhail&style=flat-square" width="125"/></a>
 ## 👨🏻‍🎓 About Me
 A passionate software engineer and full-stack developer specializing in crafting elegant digital experiences. With expertise in various programming languages and technologies, I excel in both development and design. Currently pursuing a bachelor's degree at ITU, I thrive on building innovative projects, from React components and Next.js to full-stack SAAS applications. Let's connect and create something amazing!
 
