@@ -7,13 +7,6 @@
 
 <h3 align="center" >A passionate <b>Full stack developer</b> and a <b>Front-end Engineer </b></h3>
 
-<h2 align="left">🌐 Lets Connect</h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/bazil-suhail/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:bazil1854@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@Bazil_Suhail"><img title="Checkout My Projects" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
-
 ## 👨🏻‍🎓 About Me
 A passionate software engineer and full-stack developer specializing in crafting elegant digital experiences. With expertise in various programming languages and technologies, I excel in both development and design. Currently pursuing a bachelor's degree at ITU, I thrive on building innovative projects, from React components and Next.js to full-stack SAAS applications. Let's connect and create something amazing!
 
@@ -23,9 +16,14 @@ A passionate software engineer and full-stack developer specializing in crafting
 - Development of Web and Desktop Applications.
 - Experienced in Realtime Database integration like **Firebase** and **Supabase**.
 
+<h2 align="left">✅ Stuck On a Problem <b>Let's Communicate to figure out a Technical Solution</b>/h2>
+<p align="left">
+  <a href="mailto:bazil1854@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bazil-suhail/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@Bazil_Suhail"><img title="Checkout My Projects" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
 
-## 🤖 Tech Stack
-https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white
+## 🤖 Tech Stack 
  <a href="#"> 
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img alt="SFML" src="https://img.shields.io/badge/SFML-%23FF7139.svg?&style=for-the-badge&logo=sfml&logoColor=white"/> 
