@@ -6,7 +6,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> A skilled  
   
 <h2 align="center" justify="center" >
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=400&height=70&duration=4000&lines=Software+Engineer;+Full-Stack+Developer;+Web+Designer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=400&height=70&duration=4000&lines=Software+Engineer;+Full-Stack+Web-Developer;App+Developer" />
 </h2>    
 
 <a href="https://github.com/harismuneer"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=BazilSuhail&style=flat-square" width="125"/></a>
@@ -36,6 +36,7 @@ A passionate software engineer and full-stack developer specializing in crafting
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>   
 <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> 
 <img alt="Next Js" src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+<img alt="React Native" src="https://img.shields.io/badge/React%20Native-%2320232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img alt="Node js" src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
 <img alt="Express js" src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>   
 <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
