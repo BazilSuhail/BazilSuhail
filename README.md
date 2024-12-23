@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/BazilSuhail/BazilSuhail/blob/main/LinkDinBanner.png" alt="bazilsuhail" />
+  <img src="https://github.com/BazilSuhail/BazilSuhail/blob/main/LinkDinBanner.webp" alt="bazilsuhail" />
 </p>
 
 <h1 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/bazil-suhail/">Bazil Suhail</a> 
