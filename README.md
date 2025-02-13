@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e73d9904-a2f3-4e58-9a98-80ee04c296c0)![image](https://github.com/user-attachments/assets/1b356f56-9c60-4a77-bf5b-706f8f3ecf47)<p align="center">
+<p align="center">
   <img src="https://github.com/BazilSuhail/BazilSuhail/blob/main/githubBanner.webp" alt="bazilsuhail" />
 </p>
 
