@@ -1,10 +1,14 @@
+![image](https://github.com/user-attachments/assets/e73d9904-a2f3-4e58-9a98-80ee04c296c0)![image](https://github.com/user-attachments/assets/1b356f56-9c60-4a77-bf5b-706f8f3ecf47)<p align="center">
+  <img src="https://github.com/BazilSuhail/BazilSuhail/blob/main/githubBanner.webp" alt="bazilsuhail" />
+</p>
+
 <a href="https://github.com/BazilSuhail"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=BazilSuhail&style=flat-square" width="125"/></a>
 
 <h1 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/bazil-suhail/">Bazil Suhail</a> 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> A skilled<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=26&center=true&vCenter=true&width=300&height=23&duration=4000&lines=Computer+Scientist;Web-App+Developer;Mobile-App+Developer" />
 </h1>
 
-A passionate software engineer and full-stack developer specializing in crafting elegant digital experiences. With expertise in various programming languages and technologies, I excel in both development and design. Currently pursuing a bachelor's degree at ITU, I thrive on building innovative projects, from React components and Next.js to full-stack SAAS applications. Let's connect and create something amazing!
+A computer scientist specializing in crafting elegant digital experiences. With expertise in various programming languages and technologies, I excel in both development and design. Currently pursuing a bachelor's degree at ITU, I thrive on building innovative projects, from crafting reusable libraries or solutions to full-stack SAAS applications.
 
 
 ## Expertise
