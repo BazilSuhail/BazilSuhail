@@ -52,7 +52,7 @@ I like building things end-to-end, from the UI layer all the way down to the inf
 
 > **Open Source Registries - Check out my packages:**
 >
-> <a href="https://npmx.dev/~bazil-suhail"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a>
+> <a href="https://npmx.dev/~bazil_suhail"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a>
 > &nbsp;
 > <a href="https://pypi.org/user/BazilSuhail/"><img src="https://img.shields.io/badge/pypi-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI" /></a>
 >
