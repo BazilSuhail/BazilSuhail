@@ -1,22 +1,30 @@
-[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FBazilsuhail&style=plastic)](https://rankistan.dev/#Bazilsuhail)
+<p align="left">
+  <a href="https://rankistan.dev/#Bazilsuhail">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FBazilsuhail&style=flat-square" alt="Rankistan rank badge" />
+  </a>
+  <a href="https://user-badge.committers.top/pakistan/BazilSuhail">
+    <img src="https://user-badge.committers.top/pakistan/BazilSuhail.svg" alt="committers.top badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=BazilSuhail&style=flat-square&color=FF0000&label=profile+views" alt="Profile Views" />
+</p>
 
 ## Yo, I'm Bazil Suhail! <img src="https://camo.githubusercontent.com/6bc659a07891421494f7b9fcc9d849feee45291dfdb693de0d3d029367fec633/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="22">
 
 ```diff
-+ I break things so I can build them better!
-! Script creator by day, open-source contributor by night
-- "Why do it manually when code can do it instantly?" - personal rule
+- I break things so I can build them better!
++ Script creator by day, open-source contributor by night
+! "Code that actually fixes real problems > Code that just farms impressions"
 ```
 
 ---
 
 ### Who Am I?
 
-I like building things end-to-end, from the UI layer all the way down to the infrastructure. Obsessed with automation, scalable system architecture, and writing code that doesn't suck *(most of the time)*. If there's a repetitive process, I'll automate it. If there's a bottleneck, I'll redesign it.
+I like building systems end to end whether desktop, web, or mobile focusing purely on solving real world problems. Obsessed with automation, scalable architecture, and writing clean, reliable code. If there is a manual process, I will script it. If there is a bottleneck, I will redesign it. Every single day, I like to:
 
-- Building reusable libraries so I don't repeat myself like a broken record
-- Interested in distributed systems and designing things that scale
-- Crafting fluid animations and ultra-usable UIs that feel less like rocket science, more like magic
+- Craft raw full stack systems across desktop, web, and mobile that solve actual problems
+- Ship optimal zero dependency open source packages to kill boilerplate so I never rewrite the same code twice
+- Cook up buttery smooth interfaces with crazy fluid micro animations
 
 ---
 
@@ -39,29 +47,37 @@ I like building things end-to-end, from the UI layer all the way down to the inf
 
 ---
 
-> [!TIP]
-> ```
->  _______
-> /        \
-> | ()  () |    🚬  "Build for Impact, not for Hype.
-> |   __   |----~    Code that solves real problems > 
->  \  --  /          code that looks cool on Twitter."
->   \____/                                             — Bazil Suhail
-> ```
+### Key Projects
+
+| Project | Description |
+| :--- | :--- |
+| <a href="https://github.com/BazilSuhail/YaarScript"><b>YaarScript</b></a> | Custom interpreted programming language crafted from scratch to make coding feel ridiculously native and expressive. |
+| <a href="https://github.com/BazilSuhail/ZEVRA"><b>ZEVRA</b></a> | High-performance AI automation engine designed to eliminate manual workflows and optimize execution speed. |
+| <a href="https://github.com/BazilSuhail/Collabora8r-Client"><b>Collabor8r</b></a> | Real-time Agile collaboration platform built to replace Jira bloat with instant issue sync and zero-friction team workflows. |
+
+### Key Open Source & Packages
+
+| Package | Description |
+| :--- | :--- |
+| <a href="https://www.npmjs.com/package/entity-react-modals"><b>entity-react-modals</b></a> | Zero-boilerplate global state modal engine for React that eliminates manual open/close state logic across complex application flows. |
+| <a href="https://www.npmjs.com/package/react-form-rewind"><b>react-form-rewind</b></a> | Ultra-lightweight form state manager designed to track, rewind, and restore form mutations with minimal re-renders. |
+| <a href="https://www.npmjs.com/package/unimailer"><b>unimailer</b></a> | Unified, provider-agnostic transactional email engine engineered to seamlessly route and fallback across multiple SMTP/API providers. |
+
 ---
 
-> **Open Source Registries - Check out my packages:**
+> [!TIP]
+> **Open Source & Contributions**  
+> Found something useful? Consider dropping a ⭐ on the repository to support further development.
 >
 > <a href="https://npmx.dev/~bazil_suhail"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a>
 > &nbsp;
 > <a href="https://pypi.org/user/BazilSuhail/"><img src="https://img.shields.io/badge/pypi-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI" /></a>
->
-> **Want to Collaborate/Contibute ? Reach Out Here**
->
-> <img src="https://komarev.com/ghpvc/?username=BazilSuhail&style=flat&color=FF5500&label=PROFILE+VIEWS" alt="profile views" />
+
+> Want to Collaborate - **Reach Out & Connect**
 > &nbsp;
-> <a href="mailto:bazil1854@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+> <a href="mailto:bazil1854@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 > &nbsp;
-> <a href="https://www.linkedin.com/in/bazil-suhail/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+> <a href="https://www.linkedin.com/in/bazil-suhail/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 > &nbsp;
-> <a href="https://www.youtube.com/@Bazil_Suhail"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+> <a href="https://www.reddit.com/user/BazilSuhail/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+> &nbsp;
